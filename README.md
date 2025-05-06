@@ -73,6 +73,7 @@ Retention Strategy: Offering a blanket discount is inefficient; targeted retenti
 
 ![Churning status](https://github.com/user-attachments/assets/4977d1d5-6747-4121-b172-f11ecf3c62ee)
 
+![Feature Importance ](https://github.com/user-attachments/assets/6858aa17-52ac-440e-b6b4-f6edb2230829)
 
 # Conclusion
 This project highlighted the value of data science in driving strategic decisions. Through predictive modeling, statistical analysis, and hypothesis testing, I was able to deliver clear business recommendations to reduce churn and optimize resource allocation. The work demonstrated not only technical proficiency in Python and machine learning but also the ability to translate data into high-impact business insights.
