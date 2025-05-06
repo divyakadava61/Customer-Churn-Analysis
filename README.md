@@ -71,7 +71,8 @@ Top Drivers: Yearly consumption, forecasted consumption, and net margin—not pr
 
 Retention Strategy: Offering a blanket discount is inefficient; targeted retention campaigns focusing on high-value, high-risk customers are significantly more cost-effective.
 
-[Churning status.png](https://github.com/divyakadava61/Customer-Churn-Analysis/blob/main/Churning%20status.png)
+![Churning status](https://github.com/user-attachments/assets/4977d1d5-6747-4121-b172-f11ecf3c62ee)
+
 
 # Conclusion
 This project highlighted the value of data science in driving strategic decisions. Through predictive modeling, statistical analysis, and hypothesis testing, I was able to deliver clear business recommendations to reduce churn and optimize resource allocation. The work demonstrated not only technical proficiency in Python and machine learning but also the ability to translate data into high-impact business insights.
