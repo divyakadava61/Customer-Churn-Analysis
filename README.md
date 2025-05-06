@@ -14,6 +14,7 @@ The simulation also tested the effectiveness of a discount strategy. A 20% disco
 # Dataset
 Find the dataset here:
 <a href= "https://github.com/divyakadava61/Customer-Churn-Analysis/blob/main/client_data%20(1).csv"> Client Data </a>
+
 <a href = "https://github.com/divyakadava61/Customer-Churn-Analysis/blob/main/price_data%20(1).csv"> Price Data </a>
 # Goal
 To investigate whether price sensitivity is the primary driver of customer churn at PowerCo and to develop a machine learning model that predicts churn with high accuracy. The project aimed to recommend data-backed strategies to reduce churn and retain high-value customers.
